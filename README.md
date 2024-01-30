@@ -12,9 +12,10 @@
         <br>
         <h2>my main skills : </h2>
         <br>
-        <h2>my sub skills : </h2>
+        <h2>my sub skills : 
+        <img alt="Static Badge" src="https://img.shields.io/badge/HTML-badge">
 
-    </div>
+         </h2>
 
 </body>
 </html>
