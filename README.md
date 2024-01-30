@@ -4,18 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Add any additional meta tags or links to external stylesheets here -->
-
-    <title>Your Page Title</title>
-
 </head>
 <body>
     <div class="container">
         <h1>I'm big ears Developer</h1>
         <br>
         <h2>My main skills :</h2>
-        <br>
-        <h2>My sub skills :</h2>
-        <!-- Fix the badge URLs and correct the syntax for the badges -->
         <img src="https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5 Badge">
         <img src="https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3" alt="CSS3 Badge">
         <img src="https://img.shields.io/badge/-JavaScript-823F7D?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=823F7D&color=823FFC" alt="JavaScript Badge">
@@ -24,6 +18,10 @@
         <img src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge">
         <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git Badge">
         <img src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker Badge">
+        <br>
+        <h2>My sub skills :</h2>
+        
+       
     </div>
 </body>
 </html>
