@@ -11,6 +11,8 @@
         <h1>I'm big ears Developer</h1>
         <br>
         <h2>my main skills : </h2>
+        <br>
+        <h2>my sub skills : </h2>
 
     </div>
 
