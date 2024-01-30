@@ -22,6 +22,6 @@
         <h2>My sub skills :</h2>
         
        
-    </div>
+    
 </body>
 </html>
