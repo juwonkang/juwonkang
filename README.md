@@ -15,7 +15,5 @@
         <h2>my sub skills : 
         <img alt="Static Badge" src="https://img.shields.io/badge/HTML-badge">
 
-         </h2>
-
 </body>
 </html>
