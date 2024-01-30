@@ -9,12 +9,8 @@
 <body>
     <div class="container">
         <h1>I'm big ears Developer</h1>
-
-    <h2>안녕하세요 저는 강주원입니다! 잘부탁드립니다!</h2>
-
-
-
-
+        <br>
+        <h2>my main skills : </h2>
 
     </div>
 
