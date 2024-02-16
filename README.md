@@ -17,6 +17,7 @@
         <img src="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react" alt="React Badge">
         <img src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge">
         <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git Badge">
+         <img src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker Badge">
         
         <br>
         <h2>My sub skills :</h2>
